@@ -2,8 +2,9 @@
 
 A small, dependency-free, and type-safe deep equality comparison library for JavaScript and TypeScript.
 
-[![npm version](https://img.shields.io/npm/v/deep-eq.svg)](https://www.npmjs.com/package/deep-eq)
-[![npm downloads](https://img.shields.io/npm/dm/deep-eq.svg)](https://www.npmjs.com/package/deep-eq)
+<!-- [![npm version](https://img.shields.io/npm/v/deep-eq.svg)](https://www.npmjs.com/package/deep-eq)
+[![npm downloads](https://img.shields.io/npm/dm/deep-eq.svg)](https://www.npmjs.com/package/deep-eq) -->
+
 [![License: ISC](https://img.shields.io/badge/License-ISC-yellow.svg)](https://opensource.org/licenses/ISC)
 
 ## Features
